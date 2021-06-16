@@ -5,5 +5,7 @@ public class Git {
 
     public void result() {
         System.out.println("a+b = "+(a+b));
+
     }
+    
 }
